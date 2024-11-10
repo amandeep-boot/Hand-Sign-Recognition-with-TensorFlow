@@ -32,4 +32,6 @@ The model is trained on the ASL Alphabet dataset, using the first 1500 images of
    git clone https://github.com/yourusername/hand-sign-recognition.git
    cd hand-sign-recognition
 
-###Installing Dependencies
+### Installing Dependencies
+
+
